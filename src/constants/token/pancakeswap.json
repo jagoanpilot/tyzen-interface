@@ -1,0 +1,45 @@
+{
+    "name": "TyzenSwap Default List",
+    "timestamp": "2021-03-17T09:56:23Z",
+    "version": {
+        "major": 2,
+        "minor": 10,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://swap.tyzen.io/images/pancakeswap.png",
+    "keywords": ["sdna", "default"],
+    "tokens": [{
+            "name": "Tyzen",
+            "symbol": "TZN",
+            "address": "0x524DC4b2dB22761Bf4dF9cEcF5f25890865C086d",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://swap.tyzen.io/images/coins/0x524DC4b2dB22761Bf4dF9cEcF5f25890865C086d.png"
+        },
+        {
+            "name": "WBNB Token",
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://swap.tyzen.io/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        {
+            "name": "BUSD Token",
+            "symbol": "BUSD",
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://swap.tyzen.io/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://swap.tyzen.io/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+        }
+    ]
+}
